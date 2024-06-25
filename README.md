@@ -5,5 +5,6 @@ This repo is for giving feedback and reporting bugs for [Asteroids ++](https://s
 
 ## How to give feedback / Report Bugs
 - [Head to the issues tab](https://github.com/Infiland/AsteroidsFeedback/issues) and click "New Issue" and give feedback on the game as well as report bugs, request features and other.
+- Make sure you provide what version you are playing on
 - If an issue you are reporting exists, upvote it for it to have higher priority.
 - If you have further concerns [join the discord server.](https://discord.gg/6np9CmuEyv)
